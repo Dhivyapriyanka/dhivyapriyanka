@@ -1,6 +1,6 @@
-# Dhivyapriyanka
+# Hi, I'm Dhivya priyanka
 
-Hi there!
+### A passionate Automation test engineer ###
 
-I am Dhivya priyanka , A passionate Automation test engineer who loves learning the techincal skills
+
 
